@@ -1,5 +1,7 @@
 #### Run Mesos in Docker with Fig!
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/fig-mesos.svg)](https://www.guardrails.io)
+
 Assuming you've already [installed Fig](http://www.fig.sh/install.html), then checkout and run:
 
 ```
